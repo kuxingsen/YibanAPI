@@ -29,7 +29,7 @@ import org.apache.http.conn.ssl.TrustStrategy;
 import org.apache.http.conn.ssl.SSLConnectionSocketFactory;
 
 /**
- * Created by 傻逼 on 2018/1/29.
+ * 以get或post方法发送请求
  */
 public class HTTPSimple {
 

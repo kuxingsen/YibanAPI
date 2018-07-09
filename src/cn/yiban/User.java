@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by 傻逼 on 2018/1/29.
+ * 以下为 用户接口
  */
 public class User {
 

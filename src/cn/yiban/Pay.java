@@ -1,7 +1,7 @@
 package cn.yiban;
 
 /**
- * Created by 傻逼 on 2018/1/30.
+ * 以下为网薪接口
  */
 public class Pay {
 

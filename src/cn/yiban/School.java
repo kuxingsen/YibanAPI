@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Objects;
 
 /**
- * Created by 傻逼 on 2018/1/30.
+ * 校级接口
  */
 public class School {
     private static final String YIBAN_OPEN_URL = "https://openapi.yiban.cn/";

@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by 傻逼 on 2018/1/30.
+ * 资料库接口
  */
 public class Data {
     private static final String YIBAN_OPEN_URL = "https://openapi.yiban.cn/";

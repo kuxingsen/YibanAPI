@@ -7,14 +7,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by 傻逼 on 2018/1/30.
+ * 以下为群话题接口
+ *
  */
 public class Group {
     private static final String YIBAN_OPEN_URL = "https://openapi.yiban.cn/";
 
-    /**
-     * 以下为群话题接口
-     */
     private static final String API_GROUP_PUBLICGROUP = "group/public_group";
     private static final String API_GROUP_ORGANGROUP = "group/organ_group";
     private static final String API_GROUP_MYGROUP = "group/my_group";
